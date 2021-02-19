@@ -2,7 +2,7 @@
 
 Python encryption and decription! Windows Application!
 
-Coming Soon !!
+## Coming Soon !!
 
 ## How to Encrypt/Decrypt
 1. Open the App and Click SELECT FILE Button and select your file e.g. "abc.jpg".
