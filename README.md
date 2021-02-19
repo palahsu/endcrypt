@@ -10,6 +10,8 @@ Python encryption and decription!
 5. Click RESET Button to reset the input fields and status bar.
 6. You can also Click CANCEL Button during Encryption/Decryption to stop the process.
 
+Thanks @ahmednooor
+
 ### Note:
 Release Version (EXE) Coming Soon! You Can Run it on Terminal or Compiler.
 
