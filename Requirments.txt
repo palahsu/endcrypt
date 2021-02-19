@@ -1,0 +1,5 @@
+Python 3
+Tkinter for GUI
+pycryptodomex for Cryptodome
+AES Encryption
+cx_freeze to build executable
