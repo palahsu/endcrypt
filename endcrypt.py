@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-#Development Process!
+#In Development Process!
 
 class EncryptionTool:
     
