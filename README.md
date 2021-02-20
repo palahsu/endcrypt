@@ -4,7 +4,6 @@ Encryption and decryption. Windows Application.
 
 Any Type Languages Supported!
 
-## Coming Soon !!
 App Under Development
 
 ## How to Encrypt/Decrypt:
