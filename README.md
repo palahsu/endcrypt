@@ -1,6 +1,8 @@
 # endcrypt-py
 
-Python encryption and decription. Windows Application.
+Encryption and decryption. Windows Application.
+
+Any Type Languages Supported!
 
 ## Coming Soon !!
 
