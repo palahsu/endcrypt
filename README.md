@@ -1,6 +1,6 @@
 # endcrypt-py
 
-Python encryption and decription! Windows Application.
+Python encryption and decription. Windows Application.
 
 ## Coming Soon !!
 
