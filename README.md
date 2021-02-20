@@ -4,7 +4,7 @@ Encryption and decryption. Windows Application.
 
 Any Type Languages Supported!
 
-## Coming Soon !!
+## Coming Soon !! Under Development
 
 ## How to Encrypt/Decrypt:
 1. Open the App and Click SELECT FILE Button and select your file e.g. "endcrypt.jpg".
