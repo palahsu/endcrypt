@@ -16,6 +16,10 @@ App is Under Development!!
 
 Thanks to @ahmednooor
 
+Supported Devices:
+- Widows
+- Linux
+
 ### Note:
 Release Version (EXE) Coming Soon! You Can Run it on Terminal or Compiler.
 
