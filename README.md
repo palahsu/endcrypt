@@ -23,7 +23,7 @@ Thanks to @ahmednooor.
 ## Note:
 Release Version (EXE) Coming Soon! You Can Run it on Terminal or Compiler.
 
-For any kind of help, support, payment, suggestion and request ask me on Gmail / Telegram:
+For any kind of help, support, payment, donate, suggestion and request ask me on Gmail / Telegram:
 
 <a href="https://t.me/CyberClans"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
 
