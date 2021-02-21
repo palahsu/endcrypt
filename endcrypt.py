@@ -32,7 +32,7 @@ class EncryptionTool:
             + "__dekrypted__." + self.decrypt_output_file[-1]
 
         # dictionary to store hashed key and salt
-        self.hashed_key_salt = dict()
+       
 
         # hash key and salt into 16 bit hashes
         
