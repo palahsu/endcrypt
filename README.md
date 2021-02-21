@@ -20,7 +20,7 @@ Thanks to @ahmednooor
 - Windows
 - Linux
 
-### Note:
+## Note:
 Release Version (EXE) Coming Soon! You Can Run it on Terminal or Compiler.
 
 For any kind of help, support, payment, suggestion and request ask me on Gmail / Telegram:
