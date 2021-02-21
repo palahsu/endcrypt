@@ -20,7 +20,7 @@ class EncryptionTool:
         self.file_extension = self.user_file.split(".")[-1]
         
         # hash type for hashing key and salt
-        self.hash_type = "MD5"
+       
 
         # encrypted file name
         self.encrypt_output_file = ".".join(self.user_file.split(".")[:-1]) \
