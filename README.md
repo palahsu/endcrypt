@@ -14,7 +14,7 @@ App is Under Development!!
 5. Click RESET Button to reset the input fields and status bar.
 6. You can also Click CANCEL Button during Encryption/Decryption to stop the process.
 
-Thanks to @ahmednooor
+Thanks to @ahmednooor.
 
 ## Supported Devices:
 - Windows
