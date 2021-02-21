@@ -16,8 +16,8 @@ App is Under Development!!
 
 Thanks to @ahmednooor
 
-Supported Devices:
-- Widows
+## Supported Devices:
+- Windows
 - Linux
 
 ### Note:
