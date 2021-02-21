@@ -2,7 +2,7 @@
 
 Encryption and decryption. Windows Application.
 
-Any Type Languages Supported!
+Any Type Programming Languages Supported!
 
 App is Under Development!!
 
