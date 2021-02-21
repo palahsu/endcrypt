@@ -35,7 +35,7 @@ class EncryptionTool:
         self.hashed_key_salt = dict()
 
         # hash key and salt into 16 bit hashes
-        self.hash_key_salt()
+        
 
     def read_in_chunks(self, file_object, chunk_size=1024):
         
