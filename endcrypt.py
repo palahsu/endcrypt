@@ -2,6 +2,13 @@
 
 #In Development Process!
 
+import os
+import sys
+import hashlib
+import tkinter as tk
+from tkinter import filedialog
+from tkinter import messagebox
+
 class EncryptionTool:
     
     def __init__(self, user_file, user_key, user_salt):
