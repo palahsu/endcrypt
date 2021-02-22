@@ -464,6 +464,18 @@ class MainWindow:
     
     def cancel_callback(self):
         self.should_cancel = True
+        
+    def show_help_callback(self):
+        messagebox.showinfo(
+            "How To",
+            """1. Open the App and Click SELECT FILE Button and select your file e.g. "endcrypt.jpg".
+2. Enter your Secret Key (This can be any alphanumeric letters). Remember this so you can Decrypt the file later.
+3. Click ENCRYPT Button to encrypt. A new encrypted file with ".endcrypt" extention e.g. "endcrypt.jpg.endcrypt" will be created in the same directory where the "endcrypt.jpg" is.
+4. When you want to Decrypt a file you, will select the file with the ".endcrypt" extention and Enter your Secret Key which you chose at the time of Encryption. Click DECRYPT Button to decrypt. The decrypted file will be of the same name as before with the suffix "dekrypted" e.g. "endcrypts.jpg".
+5. Click RESET Button to reset the input fields and status bar.
+6. You can also Click CANCEL Button during Encryption/Decryption to stop the process.
+"""
+        )
 
    
 
