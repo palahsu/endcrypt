@@ -4,6 +4,9 @@ Encryption and decryption. Windows Application. Any Type Programming Languages S
 
 App is Under Development!!
 
+
+![endcrypt](https://user-images.githubusercontent.com/49250151/109132543-25481e00-777e-11eb-834b-e8a247e3e8dc.PNG)
+
 ## How to Encrypt/Decrypt:
 1. Open the App and Click SELECT FILE Button and select your file e.g. "endcrypt.jpg".
 2. Enter your Secret Key (This can be any alphanumeric letters). Remember this so you can Decrypt the file later.
